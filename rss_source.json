@@ -1,4 +1,3 @@
-{
-  "rss_url": "https://stbstalker.alaaeldinee.com/feeds/posts/default?alt=rss",
+  "rss_url": "https://stbstalker.alaaeldinee.com/feeds/posts/default?alt=json&max-results=500",
   "enabled": true
 }
